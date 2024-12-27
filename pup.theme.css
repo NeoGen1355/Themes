@@ -33,7 +33,7 @@
   --background-overlay: rgba(0,0,0,0.6);
   --user-popout-image: url('https://cdn.discordapp.com/attachments/1259417536253132863/1321995205557096562/8b6792a75a88df66a8361b1fdd53473b.png?ex=676f437a&is=676df1fa&hm=a7a6c9017ba4fac8b36890225746d69adfc1bc3d799e88ff26a329e35cb7dcae&');
   --user-popout-position: center;
-  --user-popout-size: cover;
+  --user-popout-size: contain;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
   --user-popout-brightness: 100%;
