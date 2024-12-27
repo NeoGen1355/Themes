@@ -1,5 +1,5 @@
 /**
- * @name Pup
+ * @name pup
  * @author ClearVision Team
  * @version 6.9.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -31,7 +31,7 @@
   --background-invert: 0%;
   --background-blur: 3px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://cdn.discordapp.com/attachments/1259417536253132863/1321991110435934260/956d61d8f274950f1d24f02b5311603c.png?ex=676f3faa&is=676dee2a&hm=278221923e3111183158ab15e3b913cbbd839a5dc4a1af254c4d4dada0ef4bfb&');
+  --user-popout-image: url('https://cdn.discordapp.com/attachments/1259417536253132863/1321995205557096562/8b6792a75a88df66a8361b1fdd53473b.png?ex=676f437a&is=676df1fa&hm=a7a6c9017ba4fac8b36890225746d69adfc1bc3d799e88ff26a329e35cb7dcae&');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -42,7 +42,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://cdn.discordapp.com/attachments/1259417536253132863/1321991208100167680/17c4aca8808a9f1d0be1c7d5c558957a.png?ex=676f3fc1&is=676dee41&hm=ad63ab893180bea0533e01ce688f50cdd91a95d022d5e240a02ed18f0178a17a&');
+  --user-modal-image: url('https://cdn.discordapp.com/attachments/1259417536253132863/1321994419590664222/f6ee06581016e404851592a6f55dd617.png?ex=676f42bf&is=676df13f&hm=d9d26bade468d215624dc74ba9233a4f933a6b20dc850e26abc4adbe0a14ac2c&');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
